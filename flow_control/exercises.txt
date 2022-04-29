@@ -1,0 +1,24 @@
+Exercise 1
+1. false correct
+2. false correct
+3. false correct
+4. true correct
+5. true? correct (It does return true)
+
+Exercise 4
+Block 1 = FALSE (it puts the string "FALSE" which should come out as FALSE)
+Block 2 = Did you get it right?
+Block 3 = Alright now!
+
+Exercise 5
+You got this error because both if/else flows and method definitions require the end reserved word.
+There is only one end instead of two. 
+You can resolve this error by adding an end on line 7 and moving the end on line 6 over to be in line with the if/else flow.
+
+Exercise 6
+1. error, you cannot compare an integer with a string using >=
+2. false
+3. false
+4. true
+5. false
+6. true
