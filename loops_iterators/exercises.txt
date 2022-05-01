@@ -1,0 +1,3 @@
+#Exercise 1
+The each iterator method returns nil? (WRONG)
+The each iterator appears to return the array that was fed into it.
